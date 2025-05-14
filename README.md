@@ -26,14 +26,11 @@ Graphiti
 
 </div>
 
-:star: _Help us reach more developers and grow the Graphiti community. Star this repo!_
-
-<br />
-
-> [!TIP]
-> Check out the new [MCP server for Graphiti](mcp_server/README.md)! Give Claude, Cursor, and other MCP clients powerful Knowledge Graph-based memory.
-
 Graphiti is a framework for building and querying temporally-aware knowledge graphs, specifically tailored for AI agents operating in dynamic environments. Unlike traditional retrieval-augmented generation (RAG) methods, Graphiti continuously integrates user interactions, structured and unstructured enterprise data, and external information into a coherent, queryable graph. The framework supports incremental data updates, efficient retrieval, and precise historical queries without requiring complete graph recomputation, making it suitable for developing interactive, context-aware AI applications.
+
+<div align="center">
+  <img src="https://github.com/ChawlaAvi/graphiti/blob/main/mcp-zep.gif" alt="ag-ui Logo" style="max-width: 20px; height: auto;" />
+</div>
 
 Use Graphiti to:
 
